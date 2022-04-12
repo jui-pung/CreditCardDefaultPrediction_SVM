@@ -20,3 +20,6 @@ link:https://scidm.nchc.org.tw/dataset/default-of-credit-card-clients
 - [x] credit_card_1000.csv 為訓練模型輸入讀取檔案（資料預處理）
 - [x] Ex_ClassificationSVM.m 為訓練模型MATLAB主程式碼，需要讀取credit_card_1000.csv檔案
 - [x] trainedSVMmodel_0.70.mat 為訓練後儲存的模型檔案，模型準確率為0.7067
+## Reference
+https://ww2.mathworks.cn/help/stats/fitcsvm.html
+https://www.ym.edu.tw/~cflu/MatlabML_Class08_CFLu.pdf
